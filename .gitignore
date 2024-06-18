@@ -1,0 +1,7 @@
+
+# Python virtual env
+venv*
+
+# vagrant working direcotry ?
+.vagrant
+
